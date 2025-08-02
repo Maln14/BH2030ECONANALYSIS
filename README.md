@@ -4,12 +4,10 @@ A comprehensive, interactive economic analysis dashboard for Bahrain featuring a
  Project Overview
 This project provides a sophisticated analytical framework for understanding Bahrain's economic performance through multiple lenses:
 
-Historical economic trend analysis
-Advanced time series forecasting for Vision 2030 projections
-Economic diversification progress tracking
-Employment and trade pattern analysis
-Foreign Direct Investment (FDI) flow analysis
- Live Dashboard
+Historical economic trend analysis:
+Advanced time series forecasting for Vision 2030 projections, Economic diversification progress tracking, Employment and trade pattern analysis, Foreign Direct Investment (FDI) flow analysis.
+
+Live Dashboard:
 Access the live dashboard: 
 
 Architecture & Implementation:
@@ -17,57 +15,39 @@ Core Components:
 main.py - Primary dashboard application with modular analysis functions
 BH2030Analysis.py - Advanced time series analysis and forecasting module
 consolidated_data.py - Data consolidation and preprocessing utilities
-Technology Stack
-Frontend: Streamlit (Interactive web application framework)
-Data Processing: Pandas, NumPy
-Visualization: Plotly (Interactive charts), Matplotlib
-Statistical Analysis: Scikit-learn, Statsmodels, SciPy
-Deployment: Streamlit
+
+Technology Stack:
+Frontend: Streamlit (Interactive web application framework), Data Processing: Pandas, NumPy, Visualization: Plotly (Interactive charts), Matplotlib, Statistical Analysis: Scikit-learn, Statsmodels, SciPy, Deployment: Streamlit.
 
 Methodology & Logic:
 1. Data Architecture & Processing Pipeline
-Data Sources Integration
+Data Sources Integration:
+
 # Nine primary datasets consolidated:
-data_files = {
-    'economic': 'BHRGenEconIndic.csv',           # GDP, sector contributions
-    'employment_sector': 'BHEmploybySec.csv',    # Employment by sector/gender
-    'employment_rates': 'BHEmployRates.csv',     # Employment participation rates
-    'trade': 'BHTradeStats.csv',                 # Import/export statistics
-    'unemployment_age': 'BHUnempAge&Gender.csv', # Unemployment demographics
-    'unemployment_rates': 'BHUnemployRates.csv', # Unemployment trends
-    'agricultural': 'ECONIndicAgricultral.csv',  # Agricultural indicators
-    'inward_fdi': 'InwardFDI.csv',              # Foreign investment inflows
-    'outward_fdi': 'OutwardFDI.csv'             # Bahraini investment abroad
-}
+data_files = 
+    'BHRGenEconIndic.csv',          # GDP, sector contributions, 
+    'BHEmploybySec.csv',            # Employment by sector/gender,
+    'BHEmployRates.csv',            # Employment participation rates,
+    'BHTradeStats.csv',             # Import/export statistics,
+    'BHUnempAge&Gender.csv',        # Unemployment demographics,
+    'BHUnemployRates.csv',          # Unemployment trends,
+    'ECONIndicAgricultral.csv',     # Agricultural indicators,
+    'InwardFDI.csv',                # Foreign investment inflows,
+    'OutwardFDI.csv'                # Bahraini investment abroad.
+
 Data Quality & Validation Process:
-Load Phase: CSV files loaded with error handling and type validation
-Clean Phase: Missing values identified and handled appropriately
-Transform Phase: Standardized column naming and data format conversion
-Validate Phase: Data consistency checks and outlier detection
-Cache Phase: Streamlit caching for optimal performance
-#Note: Primariy source of data, https://www.data.gov.bh/pages/homepage/ , is limited by rather narrow accumaltion of data, many datasets were recently consolidated (2020's and onwards), while other datasets only go as far back as 2016. Thus, this analysis is limited by the limited abundance of data.
+Load Phase: CSV files loaded with error handling and type validation, Clean Phase: Missing values identified and handled appropriately, Transform Phase: Standardized column naming and data format conversion, Validate Phase: Data consistency checks and outlier detection, Cache Phase: Streamlit caching for optimal performance.
+#Note: Primariy source of data, https://www.data.gov.bh/pages/homepage/ , is limited by rather narrow accumulation of data, many datasets were recently consolidated (2020's and onwards), while other datasets only go as far back as 2016 and a few older to the 2000's. Thus, this analysis is capped by the quanitity of data provided. 
 
 2. Economic Analysis Framework
-GDP Analysis Logic
-def create_gdp_analysis(economic_data):
+GDP Analysis Logic:
     # Multi-dimensional GDP analysis approach:
-    # 1. Growth rate visualization over time
-    # 2. Sectoral composition (Oil vs Non-oil)
-    # 3. Comparative analysis with Vision 2030 targets
-    
-    # Oil vs Non-oil composition calculation
-    composition_data = pd.DataFrame({
-        'Year': oil_gdp['Year'].values,
-        'Oil Sector': oil_gdp['Value \nBD Million'].values,
-        'Non-Oil Sector': nonoil_gdp['Value \nBD Million'].values
- })
+    # 1. Growth rate visualization over time, # 2. Sectoral composition (Oil vs Non-oil), # 3. Comparative analysis with Vision 2030 targets.
 
 Analytical Approach:
 
-Temporal Analysis: Tracks GDP growth patterns over multiple years
-Sectoral Decomposition: Separates oil-dependent vs diversified economic activity
-Comparative Benchmarking: Measures progress against Vision 2030 targets
-Economic Diversification Metrics
+Temporal Analysis: Tracks GDP growth patterns over multiple years, Sectoral Decomposition: Separates oil-dependent vs diversified economic activity, Comparative Benchmarking: Measures progress against Vision 2030 targets, Economic Diversification Metrics.
+
 Diversification Index Calculation:
 
 # Non-oil share calculation methodology
@@ -265,11 +245,12 @@ Technical Configuration:
 Streamlit Configuration
 st.set_page_config(
     page_title="BH Economic Dashboard",
-    page_icon="📊",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
-Data Caching Strategy
+
+Data Caching Strategy:
 @st.cache_data
 def load_data():
     # Optimized data loading with error handling
@@ -303,7 +284,8 @@ Official Sources: All data from Bahrain government agencies
 Update Frequency: Varies by indicator (annual for most economic data)
 Coverage Period: 2000-2023 for most indicators
 Missing Data: Handled with appropriate interpolation or exclusion
-Analytical Limitations
+
+Analytical Limitations:
 Forecasting Accuracy: Models based on historical trends; external shocks not predicted
 Data Lag: Some indicators have 1-2 year reporting delays
 Model Assumptions: Linear and polynomial projections assume trend continuation
@@ -311,8 +293,7 @@ Model Assumptions: Linear and polynomial projections assume trend continuation
 Future Enhancements:
 Contemplating a couple of feautures including: Real-time Data Integration,Comparative Analysis with GCC Countries, Scenario Modeling, Export Functionality,and Mobile Optimization.
 
-
-📖 References & Data Sources
+References & Data Sources:
 Primary Data Sources:
 Bahrain Open Data Portal
 Central Bank of Bahrain
