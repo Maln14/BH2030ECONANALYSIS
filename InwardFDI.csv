@@ -1,0 +1,103 @@
+﻿N,Year,Industry (ISIC Economic Activity),الصناعة (النشاط الاقتصادي ISIC),Value.
+1.0,2023,Accommodation and Food Service Activities,أنشطة خدمات الإقامة والطعام,72.51
+2.0,2023,Administrative and Support Service Activities,أنشطة الخدمات الإدارية وخدمات الدعم,8.16
+3.0,2023,"Arts, Entertainment and Recreation",الفنون والترفية والتسلية,8.85
+4.0,2023,Construction,التشييد,59.42
+5.0,2023,Education,التعليم,18.29
+6.0,2023,"Electricity, Gas Steam and Air Conditioning Supply",إمدادات الكهرباء والغاز والبخار وتكييف الهواء,599.2
+7.0,2023,Financial and Insurance Activities,أنشطة التمويل والتأمين,10620.09
+8.0,2023,Human Health and Social Work Activities,الأنشطة في مجال صحة الإنسان والعمل الاجتماعي,13.94
+9.0,2023,Information and Communication,المعلومات والاتصالات,520.53
+10.0,2023,Manufacturing,الصناعة التحويلية,2246.56
+11.0,2023,Mining & Quarrying,التعدين وأستغلال المحاجر,99.66
+12.0,2023,Other Service Activities,أنشطة الخدمات الأخرى,0.03
+13.0,2023,"Professional, Scientific and Technical Activities",الأنشطة المهنية والعلمية والتقنية,869.84
+14.0,2023,Real Estate Activities,الأنشطة العقارية,460.77
+15.0,2023,Transportation and Storage,النقل والتخزين,106.56
+16.0,2023,"Water Supply, Sewage Waste Management and Remediation Activities",إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,18.36
+17.0,2023,Wholesale and Retail Trade Repair of Motor Vehicles and Motorcycles,تجارة الجملة والتجزئة ، إصلاح المركبات ذات المحركات والدراجات النارية,622.17
+18.0,2022,Accommodation and Food Service Activities,أنشطة خدمات الإقامة والطعام,64.06
+19.0,2022,Administrative and Support Service Activities,أنشطة الخدمات الإدارية وخدمات الدعم,-1.01
+20.0,2022,"Arts, Entertainment and Recreation",الفنون والترفية والتسلية,11.99
+21.0,2022,Construction,التشييد,120.36
+22.0,2022,Education,التعليم,25.28
+23.0,2022,"Electricity, Gas Steam and Air Conditioning Supply",إمدادات الكهرباء والغاز والبخار وتكييف الهواء,705.45
+24.0,2022,Financial and Insurance Activities,أنشطة التمويل والتأمين,7986.23
+25.0,2022,Human Health and Social Work Activities,الأنشطة في مجال صحة الإنسان والعمل الاجتماعي,21.7
+26.0,2022,Information and Communication,المعلومات والاتصالات,461.87
+27.0,2022,Manufacturing,الصناعة التحويلية,2268.54
+28.0,2022,Mining & Quarrying,التعدين وأستغلال المحاجر,74.28
+29.0,2022,Other Service Activities,أنشطة الخدمات الأخرى,0.43
+30.0,2022,"Professional, Scientific and Technical Activities",الأنشطة المهنية والعلمية والتقنية,697.68
+31.0,2022,Real Estate Activities,الأنشطة العقارية,406.95
+32.0,2022,Transportation and Storage,النقل والتخزين,45.54
+33.0,2022,"Water Supply, Sewage Waste Management and Remediation Activities",إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,30.34
+34.0,2022,Wholesale and Retail Trade Repair of Motor Vehicles and Motorcycles,تجارة الجملة والتجزئة ، إصلاح المركبات ذات المحركات والدراجات النارية,708.33
+35.0,2021,Accommodation and Food Service Activities,أنشطة خدمات الإقامة والطعام,57.44
+36.0,2021,Administrative and Support Service Activities,أنشطة الخدمات الإدارية وخدمات الدعم,2.82
+37.0,2021,"Arts, Entertainment and Recreation",الفنون والترفية والتسلية,0.65
+38.0,2021,Construction,التشييد,102.67
+39.0,2021,Education,التعليم,23.59
+40.0,2021,"Electricity, Gas Steam and Air Conditioning Supply",إمدادات الكهرباء والغاز والبخار وتكييف الهواء,425.44
+41.0,2021,Financial and Insurance Activities,أنشطة التمويل والتأمين,8267.48
+42.0,2021,Human Health and Social Work Activities,الأنشطة في مجال صحة الإنسان والعمل الاجتماعي,22.35
+43.0,2021,Information and Communication,المعلومات والاتصالات,457.65
+44.0,2021,Manufacturing,الصناعة التحويلية,1935.9
+45.0,2021,Mining & Quarrying,التعدين وأستغلال المحاجر,54.38
+46.0,2021,Other Service Activities,أنشطة الخدمات الأخرى,-0.32
+47.0,2021,"Professional, Scientific and Technical Activities",الأنشطة المهنية والعلمية والتقنية,237.47
+48.0,2021,Real Estate Activities,الأنشطة العقارية,266.8
+49.0,2021,Transportation and Storage,النقل والتخزين,34.76
+50.0,2021,"Water Supply, Sewage Waste Management and Remediation Activities",إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,6.22
+51.0,2021,Wholesale and Retail Trade Repair of Motor Vehicles and Motorcycles,تجارة الجملة والتجزئة ، إصلاح المركبات ذات المحركات والدراجات النارية,694.81
+52.0,2020,Accommodation and Food Service Activities,أنشطة خدمات الإقامة والطعام,57.86
+53.0,2020,Administrative and Support Service Activities,أنشطة الخدمات الإدارية وخدمات الدعم,5.83
+54.0,2020,"Arts, Entertainment and Recreation",الفنون والترفية والتسلية,0.57
+55.0,2020,Construction,التشييد,168.42
+56.0,2020,Education,التعليم,22.37
+57.0,2020,"Electricity, Gas Steam and Air Conditioning Supply",إمدادات الكهرباء والغاز والبخار وتكييف الهواء,391.75
+58.0,2020,Financial and Insurance Activities,أنشطة التمويل والتأمين,7952.32
+59.0,2020,Human Health and Social Work Activities,الأنشطة في مجال صحة الإنسان والعمل الاجتماعي,26.11
+60.0,2020,Information and Communication,المعلومات والاتصالات,441.76
+61.0,2020,Manufacturing,الصناعة التحويلية,1618.97
+62.0,2020,Mining & Quarrying,التعدين وأستغلال المحاجر,2.48
+63.0,2020,Other Service Activities,أنشطة الخدمات الأخرى,-0.46
+64.0,2020,"Professional, Scientific and Technical Activities",الأنشطة المهنية والعلمية والتقنية,161.77
+65.0,2020,Real Estate Activities,الأنشطة العقارية,286.97
+66.0,2020,Transportation and Storage,النقل والتخزين,78.81
+67.0,2020,"Water Supply, Sewage Waste Management and Remediation Activities",إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,3.23
+68.0,2020,Wholesale and Retail Trade Repair of Motor Vehicles and Motorcycles,تجارة الجملة والتجزئة ، إصلاح المركبات ذات المحركات والدراجات النارية,702.38
+69.0,2019,Accommodation and Food Service Activities,أنشطة خدمات الإقامة والطعام,47.6
+70.0,2019,Administrative and Support Service Activities,أنشطة الخدمات الإدارية وخدمات الدعم,0.98
+71.0,2019,"Arts, Entertainment and Recreation",الفنون والترفية والتسلية,0.35
+72.0,2019,Construction,التشييد,98.48
+73.0,2019,Education,التعليم,25.73
+74.0,2019,"Electricity, Gas Steam and Air Conditioning Supply",إمدادات الكهرباء والغاز والبخار وتكييف الهواء,127.23
+75.0,2019,Financial and Insurance Activities,أنشطة التمويل والتأمين,8320.51
+76.0,2019,Human Health and Social Work Activities,الأنشطة في مجال صحة الإنسان والعمل الاجتماعي,18.49
+77.0,2019,Information and Communication,المعلومات والاتصالات,424.67
+78.0,2019,Manufacturing,الصناعة التحويلية,1574.25
+79.0,2019,Mining & Quarrying,التعدين وأستغلال المحاجر,1.63
+80.0,2019,Other Service Activities,أنشطة الخدمات الأخرى,0.22
+81.0,2019,"Professional, Scientific and Technical Activities",الأنشطة المهنية والعلمية والتقنية,27.1
+82.0,2019,Real Estate Activities,الأنشطة العقارية,187.17
+83.0,2019,Transportation and Storage,النقل والتخزين,45.03
+84.0,2019,"Water Supply, Sewage Waste Management and Remediation Activities",إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,1.84
+85.0,2019,Wholesale and Retail Trade Repair of Motor Vehicles and Motorcycles,تجارة الجملة والتجزئة ، إصلاح المركبات ذات المحركات والدراجات النارية,635.8
+86.0,2018,Accommodation and Food Service Activities,أنشطة خدمات الإقامة والطعام,46.47
+87.0,2018,Administrative and Support Service Activities,أنشطة الخدمات الإدارية وخدمات الدعم,3.02
+88.0,2018,"Arts, Entertainment and Recreation",الفنون والترفية والتسلية,0.35
+89.0,2018,Construction,التشييد,66.69
+90.0,2018,Education,التعليم,24.7
+91.0,2018,"Electricity, Gas Steam and Air Conditioning Supply",إمدادات الكهرباء والغاز والبخار وتكييف الهواء,145.91
+92.0,2018,Financial and Insurance Activities,أنشطة التمويل والتأمين,7894.16
+93.0,2018,Human Health and Social Work Activities,الأنشطة في مجال صحة الإنسان والعمل الاجتماعي,18.88
+94.0,2018,Information and Communication,المعلومات والاتصالات,385.24
+95.0,2018,Manufacturing,الصناعة التحويلية,1552.59
+96.0,2018,Mining & Quarrying,التعدين وأستغلال المحاجر,1.52
+97.0,2018,Other Service Activities,أنشطة الخدمات الأخرى,0.43
+98.0,2018,"Professional, Scientific and Technical Activities",الأنشطة المهنية والعلمية والتقنية,14.45
+99.0,2018,Real Estate Activities,الأنشطة العقارية,250.17
+100.0,2018,Transportation and Storage,النقل والتخزين,22.06
+101.0,2018,"Water Supply, Sewage Waste Management and Remediation Activities",إمدادات المياه وأنشطة الصرف الصحي وإدارة النفايات ومعالجتها,1.84
+102.0,2018,Wholesale and Retail Trade Repair of Motor Vehicles and Motorcycles,تجارة الجملة والتجزئة ، إصلاح المركبات ذات المحركات والدراجات النارية,543.6
