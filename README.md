@@ -284,6 +284,7 @@ Official Sources: All data from Bahrain government agencies
 Update Frequency: Varies by indicator (annual for most economic data)
 Coverage Period: 2000-2023 for most indicators
 Missing Data: Handled with appropriate interpolation or exclusion
+To accentuate the original note, the limitation of the data is most prevalent when trying to conduct trend analysis which can be seen in the odd readings and projection numbers in our coefficent of variation and volatility numbers here when trying to understand GDP growth numbers. 
 
 Analytical Limitations:
 Forecasting Accuracy: Models based on historical trends; external shocks not predicted
