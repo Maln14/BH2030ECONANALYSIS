@@ -8,7 +8,7 @@ Historical economic trend analysis:
 Advanced time series forecasting for Vision 2030 projections, Economic diversification progress tracking, Employment and trade pattern analysis, Foreign Direct Investment (FDI) flow analysis.
 
 Live Dashboard:
-Access the live dashboard: 
+Access the live dashboard: https://malbh2030.streamlit.app/
 
 Architecture & Implementation:
 Core Components:
